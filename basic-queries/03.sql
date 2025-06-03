@@ -1,0 +1,1 @@
+SELECT ProductID,ProductName,UnitPrice FROM Products SELECT BY UnitPrice ASC;
